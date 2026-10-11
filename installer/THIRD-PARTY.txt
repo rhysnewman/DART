@@ -1,0 +1,17 @@
+DART third-party components
+
+.NET 8 self-contained runtime: Microsoft/.NET Foundation. Runtime notices and licences are retained in this distribution (ThirdPartyNotices.txt and LICENSE.txt).
+https://github.com/dotnet/runtime
+https://github.com/dotnet/aspnetcore
+
+FFmpeg 9.0.2 essentials from Gyan. This is a GPL-enabled build including libx264; see licenses/ffmpeg for the publisher's licence/readme and exact binary provenance. Source/build information:
+https://www.gyan.dev/ffmpeg/builds/
+https://github.com/GyanD/codexffmpeg
+https://ffmpeg.org/download.html
+For external distribution, assemble and provide the complete corresponding source/build materials for the exact FFmpeg and linked-library build, or an appropriate licence-compliant source offer. The links here alone are not represented as satisfying every redistribution obligation. This setup is an internal development/test build.
+
+MediaMTX v1.21.2: MIT licence. See licenses/mediamtx.
+https://github.com/bluenviron/mediamtx/tree/v1.21.2
+
+Installer built with NSIS 3.12, an open-source installer system:
+https://nsis.sourceforge.io/

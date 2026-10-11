@@ -1,0 +1,12 @@
+{
+  "name": "MediaMTX",
+  "version": "v1.21.2",
+  "platform": "windows_amd64",
+  "release_url": "https://github.com/bluenviron/mediamtx/releases/tag/v1.21.2",
+  "download_url": "https://github.com/bluenviron/mediamtx/releases/download/v1.21.2/mediamtx_v1.21.2_windows_amd64.zip",
+  "archive": "mediamtx_v1.21.2_windows_amd64.zip",
+  "sha256": "a84224f5a490855684e62ba6fb71e80ea2a5e16aed61883bb58380290e93e467",
+  "published_checksum_verified": true,
+  "github_asset_digest_verified": true,
+  "retrieved_utc": "2026-10-11T11:41:45.2379241Z"
+}

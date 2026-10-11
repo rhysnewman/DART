@@ -1,0 +1,6 @@
+NSIS compiler archive: NSIS 3.12 portable Windows ZIP
+Official project: https://nsis.sourceforge.io/Download
+Archive: https://downloads.sourceforge.net/project/nsis/NSIS%203/3.12/nsis-3.12.zip
+SourceForge generated mirror download used; download SHA256:
+56581F90DB321581C5381193D796FFFCF2D24B2F8FED2160A6C6A3BAA67F2C4F
+Compiler invoked from Bin/makensis.exe; source/installed files are kept in this vendor folder.
